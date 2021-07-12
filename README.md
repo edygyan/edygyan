@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edygyan
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning aws
-- 💞️ I’m looking to collaborate on devops
+- 💞️ I’m looking to collaborate on devops tech
 - 📫 How to reach me adityagupta.ait@gmail.com
 
 <!---
